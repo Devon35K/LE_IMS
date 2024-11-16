@@ -2,6 +2,7 @@
   <library name="flatlaf-3.4.1">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/build/classes/harvesteaseinventoryprototype/flatlaf-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../LIBRARY/JavaDatabase_LIBRARY/mysql-connector-java-8.0.30.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
